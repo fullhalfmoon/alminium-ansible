@@ -27,7 +27,7 @@
   - mercurial
   - mod_wsgi
   - mod_perl
-  - perl-Apache-DBI
+  #- perl-Apache-DBI
   - perl-Digest-SHA
   - libical
   - python-docutils
